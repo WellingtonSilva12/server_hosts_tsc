@@ -28,8 +28,8 @@ Este é um projeto de **monitoramento de rede** desenvolvido com **TypeScript** 
 ## 🔧 **Instalação e Execução**
 ### **1️⃣ Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/network-monitor.git
-cd network-monitor
+git https://github.com/WellingtonSilva12/server_hosts_tsc.git
+cd server_hosts_tsc
 ```
 
 ### 2️⃣ Instale as dependências
